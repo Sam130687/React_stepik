@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/React_stepik/movie/static/css/main.954e7325.css",
-    "main.js": "/React_stepik/movie/static/js/main.906370a0.js",
+    "main.js": "/React_stepik/movie/static/js/main.2959d0a4.js",
     "index.html": "/React_stepik/movie/index.html",
     "main.954e7325.css.map": "/React_stepik/movie/static/css/main.954e7325.css.map",
-    "main.906370a0.js.map": "/React_stepik/movie/static/js/main.906370a0.js.map"
+    "main.2959d0a4.js.map": "/React_stepik/movie/static/js/main.2959d0a4.js.map"
   },
   "entrypoints": [
     "static/css/main.954e7325.css",
-    "static/js/main.906370a0.js"
+    "static/js/main.2959d0a4.js"
   ]
 }
